@@ -1,7 +1,6 @@
 In this code you have a calculator class,
 that has a sum and you can add to the sum
 or reset the sum and also get the calculator sum.
-'''
 
     public class Calculator {
     private int sum;
